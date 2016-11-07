@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 sceneSetups: []
-=======
-sceneSetups:
-- path: Assets/Scena Prova.unity
-  isLoaded: 1
-  isActive: 1
->>>>>>> d56cae78861085791e5309f15546bb56ccdecd77
